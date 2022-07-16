@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class IncubyteAssessment {
+public class Addition {
 
     public static int add(String numbers) {
         String[] num = splitter(numbers);
